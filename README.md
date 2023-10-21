@@ -26,24 +26,24 @@ Navigate to the client directory:
 
 Install the client-side dependencies using npm:
 
-```shell npm install ```
+```npm install ```
 
 Start the client-side application:
 
-```shell npm start ```
+```npm start ```
 
 The client-side application will run on http://localhost:3000.
 
 ### Server
 Navigate to the server directory:
 
-```shell cd server ```
+```cd server ```
 
 Install the server-side dependencies using npm:
 
-```shell npm install ```
+```npm install ```
 
 Start the server using nodemon:
 
-```shell nodmeon app.js ```
+```nodmeon app.js ```
 The server will run on http://localhost:5000.
