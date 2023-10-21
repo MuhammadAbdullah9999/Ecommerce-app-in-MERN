@@ -22,7 +22,7 @@ To run this application locally, you'll need to set up both the client and serve
 Navigate to the client directory:
 
 
-``` shell cd client ```
+``` cd client ```
 
 Install the client-side dependencies using npm:
 
